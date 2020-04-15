@@ -10,6 +10,8 @@ I retrieved the options volume data from #theocc for the last several months. I 
 
 You can find the csv file and the code to plot graphs with annotations on my #github: https://github.com/rustemshinkaruk/Option-Trading-Volume
 
+![alt text](https://github.com/rustemshinkaruk/Option-Trading-Volume/blob/master/options%20news.png)
+
 News depicted on the graph:
 1. Senator Burr liquidated his position in stock markets. Three other senators sold major holdings around the same time.
 
